@@ -1,0 +1,18 @@
+# Engagement working folders — keep real client evidence out of source control
+engagements/
+*.engagement/
+*-redacted/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Local secrets — none expected, but guarded
+.env
+.env.*
+!.env.example
+*.key
+*.pem
