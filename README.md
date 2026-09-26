@@ -2,8 +2,8 @@
 
 A structured, recruiter-facing framework for evaluating whether an enterprise team, department, or workflow is ready to adopt AI — and what to fix before it is.
 
-> **Author:** Wes Shelton — IT Project Manager (AI enablement, process improvement, automation, Power Platform, enterprise workforce adoption).
-> **Status:** Portfolio artifact. Designed to be picked up and run against a real business unit in under a week.
+> **Author:** Wes Shelton. AI enablement, process improvement, and IT project delivery.
+> **Status:** Portfolio artifact. Not yet run against a real team. Designed so a team could run it in about a week.
 
 ---
 
@@ -59,7 +59,7 @@ Rather than claim invented metrics, this artifact targets credible, defensible o
 - A clear recommendation on whether to invest in a build phase now, or to remediate first.
 - A reusable baseline the same team can re-score against in 6–12 months to demonstrate progress.
 
-Where this assessment has been useful in practice: replacing a *"let's just start building"* impulse with a 1–2 week diagnostic that either de-risks the build or reveals that the build was the wrong question.
+The intended use: replace a *"let's just start building"* impulse with a 1 to 2 week diagnostic that either lowers the risk of the build or shows that the build was the wrong question.
 
 ## Architecture and workflow
 
@@ -145,7 +145,7 @@ If you are evaluating this repository for an IT Project Manager, AI Program Mana
 - **Governance fluency.** Responsible AI, DLP, identity, and audit posture are treated as scope, not friction.
 - **Written communication.** This README is the artifact a stakeholder would actually receive.
 
-Wes Shelton — open to IT PM / AI Enablement roles. The contents of this repository are intentionally generic so they can be adapted to any organization's terminology and tooling.
+Wes Shelton, open to AI enablement and IT project roles. The contents are generic on purpose, so any organization can adapt them to its own terms and tools.
 
 ## Suggested screenshots / demo assets
 
